@@ -1,4 +1,4 @@
-# Clipy
+# CliPpy
 
 game mode : https://youtu.be/dGtgDQZ7U_E
 
